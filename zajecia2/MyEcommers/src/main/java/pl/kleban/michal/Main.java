@@ -30,6 +30,6 @@ public class Main {
                 .filter(name -> name.startsWith("K"))
                 .map(String::toUpperCase)
                 .forEach(greeter::greet);
-
+    //Junit umozliwia uruchamianie i testowanie naszego kodu;
     }
 }

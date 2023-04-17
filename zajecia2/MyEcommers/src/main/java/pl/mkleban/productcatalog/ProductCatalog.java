@@ -7,7 +7,7 @@ import java.util.UUID;
 public class ProductCatalog {
 
     // Business
-    // Technical
+    // Tech
     private ProductStorage productStorage;
 
     public ProductCatalog(ProductStorage productStorage) {
